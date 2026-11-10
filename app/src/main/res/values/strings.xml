@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Day Trader AI</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_scanner">Scanner</string>
+    <string name="nav_signal">Signals</string>
+    <string name="nav_risk">Risk</string>
+    <string name="nav_backtest">Backtest</string>
+    <string name="nav_monte_carlo">Monte Carlo</string>
+    <string name="nav_news">News</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_journal">Journal</string>
+</resources>

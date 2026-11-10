@@ -1,0 +1,6 @@
+{
+  "name": "Day Trader AI",
+  "description": "Universal quantitative day trading terminal with real-time scanner, multi-asset technical algorithms, local Monte Carlo simulations, risk manager, and trading journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
